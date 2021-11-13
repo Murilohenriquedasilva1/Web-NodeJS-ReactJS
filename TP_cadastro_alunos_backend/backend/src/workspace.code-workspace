@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\TP_cadastro_alunos_frontend"
+		},
+		{
+			"path": "..\\..\\..\\TP_projeto_tarefas_backend"
+		},
+		{
+			"path": "..\\..\\..\\TP_projeto_tarefas_frontend"
+		},
+		{
+			"path": "..\\..\\..\\TP_REACT_conceitos"
+		},
+		{
+			"path": "..\\..\\..\\TP_REACT_contadorpessoas"
+		},
+		{
+			"path": "..\\..\\..\\TP_REACT_meuperfil"
+		},
+		{
+			"path": "..\\..\\..\\TP_REACT_multiplicador"
+		}
+	]
+}
